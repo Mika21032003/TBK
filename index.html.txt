@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>НЕФОТОБУДКА</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <div class="logo">НЕФОТОБУДКА</div>
+            <ul class="nav-links">
+                <li><a href="#why">ПОЧЕМУ МЫ</a></li>
+                <li><a href="#quality">КАЧЕСТВО</a></li>
+                <li><a href="#photo">ФОТО</a></li>
+                <li><a href="#prices">ЦЕНЫ</a></li>
+                <li><a href="#reviews">ОТЗЫВЫ</a></li>
+                <li><a href="#faq">FAQ</a></li>
+                <li><a href="#contacts">КОНТАКТЫ</a></li>
+                <li><a href="#ask" class="ask-btn">ЗАДАТЬ ВОПРОС</a></li>
+            </ul>
+        </div>
+    </nav>
+</body>
+</html>
